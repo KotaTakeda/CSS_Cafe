@@ -1,0 +1,5 @@
+[0311/214250:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0311/214301:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0311/214301:ERROR:ipc_channel_win.cc(404)] pipe error: 232
+[0311/214345:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0311/214350:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
